@@ -12,6 +12,7 @@
     "hono": "^4.12.7"
   },
   "devDependencies": {
+    "@types/node": "^25.4.0",
     "prisma": "^7.4.2",
     "wrangler": "^4.4.0"
   }
